@@ -34,7 +34,7 @@ CNTA-2021-0002
 
 python3 seeyou_uploadexp_bym2.py -u http://127.0.0.1:1111 单个url测试
 
-python3 2021_0002.py -f url.txt 批量检测
+python3 seeyou_uploadexp_bym2.py -f url.txt 批量检测
 
 
 ## 免责声明
